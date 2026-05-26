@@ -1,1 +1,5 @@
-this is demo file 2 to be pushed to remote repo.
+CREATE TABLE EMPLOYEE (
+  ID NUMBER,
+  NAME VARCHAR(100),
+  SALARY NUMBER(20,2))
+);
